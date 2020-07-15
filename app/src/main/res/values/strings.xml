@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mini Quiz</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_key" translatable="false"></string>
+</resources>
